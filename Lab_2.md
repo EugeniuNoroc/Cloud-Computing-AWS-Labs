@@ -166,7 +166,7 @@ sudo systemctl reload php-fpm
 ![Схема архитектуры](images_lab_2/architecture.png)  
 *Схема развёртывания TimeCapsule на одном экземпляре EC2 в регионе eu-north-1.*
 
-ADR: [docs/adr/0001-deploy-method.md](docs/adr/0001-deploy-method.md)  
+ADR: [docs/adr/0001-deploy-method.md](https://github.com/eugeniu-noroc-cloud/timecapsule/blob/main/docs/adr/0001-deploy-method.md)
 
 ---
 
