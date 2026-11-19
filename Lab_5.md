@@ -165,7 +165,7 @@ Scheduler выполняет действие сам, когда меня нет
 ![Схема](images_lab_5/12-architecture.png)  
 *Архитектура после ЛР5: база приложения в RDS в приватной подсети, CNAME в Route 53, ночная остановка через EventBridge Scheduler.*
 
-ADR: [docs/adr/0004-database-hosting.md](../docs/adr/0004-database-hosting.md)
+ADR: [docs/adr/0004-database-hosting.md](docs/adr/0004-database-hosting.md)
 
 ---
 
